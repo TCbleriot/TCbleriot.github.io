@@ -2,63 +2,43 @@
     "docs": [
         {
             "location": "/", 
-            "text": "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ng tag('config', 'UA-115452034-1');\n\n\n\n\n\n\n\n\n\n\n\nInscriptions au Tournoi interne de BL\u00c9RIOT PLAGE\n\n\nLe tournoi interne d\u00e9butera le 1 juin et se terminera le 30 septembre.\n\n\n4\u20ac l'inscription (pour les lots).\n\n\n4 cat\u00e9gories:\n\n\n\n\n\n\nSimples dames.\n\n\n\n\n\n\nSimples messieurs.\n\n\n\n\n\n\nSimples dames +35 ans.\n\n\n\n\n\n\nSimples messieurs +35 ans.\n\n\n\n\n\n\nBalles fournies par le club.\n\n\nInscriptions au tournoi soit par email: dominique.herkt at wanadoo.fr\nou par SMS au: 06-87-11-83-78\n\n\nNouvelles fra\u00eeches du Tennis Club Bl\u00e9riot plage\n\n\n\n\n\n\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\n1er juin 2018\n\n\nD\u00e9but Tournoi interne\n\n\n\n\n\n\n2 f\u00e9vrier 2018\n\n\nAssembl\u00e9e g\u00e9n\u00e9rale du club programm\u00e9e\n\n\n\n\n\n\n17 janvier 2018\n\n\nMise \u00e0 jours des badges, renvoyez votre num\u00e9ro de badge pour pouvoir acc\u00e9der aux terrains\n\n\n\n\n\n\n1 janvier 2018\n\n\nBonne ann\u00e9e et de jolies balles \u00e0 tous\n\n\n\n\n\n\n20 octobre 2017\n\n\nAssembl\u00e9e G\u00e9n\u00e9rale du club, le Projet Club House a \u00e9t\u00e9 accept\u00e9\n\n\n\n\n\n\n14 sept. 2017\n\n\nReprise des cours\n\n\n\n\n\n\n\n\nLes athl\u00e8tes mis \u00e0 l'honneur - 21 janvier 2018 et le club House annon\u00e7\u00e9 pour 2018!\n\n\n \n\n\nPour r\u00e9server votre cours :\nhttps://mon-espace-tennis.fft.fr/club/11620174", 
+            "text": "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ng tag('config', 'UA-115452034-1');\n\n\n\n\n\n\n\n\n\nNews\n\n\n\n\nNouveaux tarifs saison 2018-2019 \nici\n\n\nTrois nouveaux arbitres\n\n\nNotre \u00e9quipe masculine 1 en DQCF Messieurs Championat Division Qualificative DN4\n\n\n\n\nR\u00e9compenses des jeunes de la saison 2017-2018\n\n\nToutes les photos du 24 juin 2018 sur ce lien\n\n\n\n\nInscriptions au Tournoi interne de BL\u00c9RIOT PLAGE\n\n\n\n\nLe tournoi interne d\u00e9butera le 1 juin et se terminera le 31 aout.\n\n\n4\u20ac l'inscription (pour les lots).\n\n\n4 cat\u00e9gories:\n\n\n\n\n\n\nSimples dames.\n\n\n\n\n\n\nSimples messieurs.\n\n\n\n\n\n\nSimples dames +35 ans.\n\n\n\n\n\n\nSimples messieurs +35 ans.\n\n\n\n\n\n\nBalles fournies par le club.\n\n\nInscriptions au tournoi soit par email: dominique.herkt at wanadoo.fr\nou par SMS au: 06-87-11-83-78\n\n\nHistorique Club saison 2017-2018\n\n\n\n\n\n\n\n\nNews 2017-2018\n\n\n\n\n\n\n\n\n\n\n\n\n1er juin 2018\n\n\nD\u00e9but Tournoi interne\n\n\n\n\n\n\n2 f\u00e9vrier 2018\n\n\nAssembl\u00e9e g\u00e9n\u00e9rale du club programm\u00e9e\n\n\n\n\n\n\n17 janvier 2018\n\n\nMise \u00e0 jours des badges, renvoyez votre num\u00e9ro de badge pour pouvoir acc\u00e9der aux terrains\n\n\n\n\n\n\n1 janvier 2018\n\n\nBonne ann\u00e9e et de jolies balles \u00e0 tous\n\n\n\n\n\n\n20 octobre 2017\n\n\nAssembl\u00e9e G\u00e9n\u00e9rale du club, le Projet Club House a \u00e9t\u00e9 accept\u00e9\n\n\n\n\n\n\n14 sept. 2017\n\n\nReprise des cours\n\n\n\n\n\n\n\n\nLes athl\u00e8tes mis \u00e0 l'honneur - 21 janvier 2018 et le club House annon\u00e7\u00e9 pour 2018!\n\n\n \n\n\nPour r\u00e9server votre cours :\nhttps://mon-espace-tennis.fft.fr/club/11620174", 
             "title": "Accueil"
         }, 
         {
+            "location": "/#news", 
+            "text": "Nouveaux tarifs saison 2018-2019  ici  Trois nouveaux arbitres  Notre \u00e9quipe masculine 1 en DQCF Messieurs Championat Division Qualificative DN4", 
+            "title": "News"
+        }, 
+        {
+            "location": "/#recompenses-des-jeunes-de-la-saison-2017-2018", 
+            "text": "Toutes les photos du 24 juin 2018 sur ce lien", 
+            "title": "R\u00e9compenses des jeunes de la saison 2017-2018"
+        }, 
+        {
             "location": "/#inscriptions-au-tournoi-interne-de-bleriot-plage", 
-            "text": "Le tournoi interne d\u00e9butera le 1 juin et se terminera le 30 septembre.  4\u20ac l'inscription (pour les lots).  4 cat\u00e9gories:    Simples dames.    Simples messieurs.    Simples dames +35 ans.    Simples messieurs +35 ans.    Balles fournies par le club.  Inscriptions au tournoi soit par email: dominique.herkt at wanadoo.fr\nou par SMS au: 06-87-11-83-78", 
+            "text": "Le tournoi interne d\u00e9butera le 1 juin et se terminera le 31 aout.  4\u20ac l'inscription (pour les lots).  4 cat\u00e9gories:    Simples dames.    Simples messieurs.    Simples dames +35 ans.    Simples messieurs +35 ans.    Balles fournies par le club.  Inscriptions au tournoi soit par email: dominique.herkt at wanadoo.fr\nou par SMS au: 06-87-11-83-78", 
             "title": "Inscriptions au Tournoi interne de BL\u00c9RIOT PLAGE"
         }, 
         {
-            "location": "/#nouvelles-fraiches-du-tennis-club-bleriot-plage", 
-            "text": "News       1er juin 2018  D\u00e9but Tournoi interne    2 f\u00e9vrier 2018  Assembl\u00e9e g\u00e9n\u00e9rale du club programm\u00e9e    17 janvier 2018  Mise \u00e0 jours des badges, renvoyez votre num\u00e9ro de badge pour pouvoir acc\u00e9der aux terrains    1 janvier 2018  Bonne ann\u00e9e et de jolies balles \u00e0 tous    20 octobre 2017  Assembl\u00e9e G\u00e9n\u00e9rale du club, le Projet Club House a \u00e9t\u00e9 accept\u00e9    14 sept. 2017  Reprise des cours     Les athl\u00e8tes mis \u00e0 l'honneur - 21 janvier 2018 et le club House annon\u00e7\u00e9 pour 2018!     Pour r\u00e9server votre cours : https://mon-espace-tennis.fft.fr/club/11620174", 
-            "title": "Nouvelles fra\u00eeches du Tennis Club Bl\u00e9riot plage"
+            "location": "/#historique-club-saison-2017-2018", 
+            "text": "News 2017-2018       1er juin 2018  D\u00e9but Tournoi interne    2 f\u00e9vrier 2018  Assembl\u00e9e g\u00e9n\u00e9rale du club programm\u00e9e    17 janvier 2018  Mise \u00e0 jours des badges, renvoyez votre num\u00e9ro de badge pour pouvoir acc\u00e9der aux terrains    1 janvier 2018  Bonne ann\u00e9e et de jolies balles \u00e0 tous    20 octobre 2017  Assembl\u00e9e G\u00e9n\u00e9rale du club, le Projet Club House a \u00e9t\u00e9 accept\u00e9    14 sept. 2017  Reprise des cours     Les athl\u00e8tes mis \u00e0 l'honneur - 21 janvier 2018 et le club House annon\u00e7\u00e9 pour 2018!     Pour r\u00e9server votre cours : https://mon-espace-tennis.fft.fr/club/11620174", 
+            "title": "Historique Club saison 2017-2018"
         }, 
         {
             "location": "/ecole/", 
-            "text": "L'\u00e9cole de Tennis en chiffres - Club FFT : 56620174\n\n\nResponsable de l'\u00e9cole et club :\n \nDominique Herkt (tel : 06-87-11-83-78 ou par mail\u00a0: dominique.herkt at wanadoo.fr)\n\n\nDirecteur sportif : \n Vincent DEGRAVE Brevet d'Etat, class\u00e9 2/6\n\n\nEquipe p\u00e9dagogique :\n \nVincent DEGRAVE, Didier LECLERCQ, Sylvain VANDERBECQ,  Charlotte WILLEME (Educateur STAPS)\n\n\nTARIFS SAISON 2018-2019 (\nBulletin d'inscription\n)\n\n\nAdh\u00e9sion\n saison 2018-2019 \n(inclus : licence FFT, acc\u00e8s aux courts et club house, r\u00e9servation des courts via Adoc sur internet.)\n\n\n\n\nJeune ou \u00e9tudiant 80 euros\n\n\nAdulte 115 euros\n\n\nCouple 190 euros\n\n\nD\u00e9couverte 3 mois 45 euros (Personne +15 ans et non licenci\u00e9e depuis plus de 3 ans)\n\n\n\n\nCours\n\n\n\n\nJEUNE  Adh\u00e9sion + entra\u00eenement 1h/2h/3h/4h/5h resp. : 120/180/240/300/360 euros\n\n\nP\u00f4le espoir \u00e0 voir cas par cas\n\n\nADULTES Adh\u00e9sion + 1h30 entra\u00eenement : 240 euros\n\n\n\n\nR\u00e9ductions et Paiements\n\n\n\n\nR\u00e9duction de 50 euro sur le montant total si au moins 3 membres d\u2019une m\u00eame famille sont licenci\u00e9s au club. \n\n\nParrainage, r\u00e9duction du montant de la licence FFT (29 euro pour les adultes ou 20 euro pour les jeunes) si le licenci\u00e9 parraine un nouveau membre au club.\n\n\nPossibilit\u00e9 de payer en 3 fois sans frais.\n\n\nCh\u00e8ques vacances et coupons sport accept\u00e9s\n\n\n\n\n\n\nAutres prestations\n\n\n\n\nBadge d\u2019acc\u00e8s\u00a0caution                                    :  20 euro \n\n\nR\u00e9servation d\u2019un court 1h                                :  10 euro\n\n\nInvitation d\u2019une personne\u00a0                               :    5 euro\n\n\nR\u00e9servation machine lance balles+balles 1h  :  15 euro", 
+            "text": "L'\u00e9cole de Tennis  - Club FFT : 56620174\n\n\nResponsable de l'\u00e9cole et club :\n \nDominique Herkt (tel : 06-87-11-83-78 ou par mail\u00a0: dominique.herkt at wanadoo.fr)\n\n\nDirecteur sportif : \n Vincent DEGRAVE Brevet d'Etat, class\u00e9 2/6\n\n\nEquipe p\u00e9dagogique :\n \nVincent DEGRAVE, Didier LECLERCQ, Sylvain VANDERBECQ,  Charlotte WILLEME (Educateur STAPS)\n\n\nTARIFS SAISON 2018-2019 (\nBulletin d'inscription\n)\n\n\nAdh\u00e9sion\n saison 2018-2019 \n(inclus : licence FFT, acc\u00e8s aux courts et club house, r\u00e9servation des courts via Adoc sur internet.)\n\n\n\n\nJeune ou \u00e9tudiant 80 euros\n\n\nAdulte 115 euros\n\n\nCouple 190 euros\n\n\nD\u00e9couverte 3 mois 45 euros (Personne +15 ans et non licenci\u00e9e depuis plus de 3 ans)\n\n\n\n\nCours\n\n\n\n\nJEUNE  Adh\u00e9sion + entra\u00eenement 1h/2h/3h/4h/5h resp. : 120/180/240/300/360 euros\n\n\nP\u00f4le espoir \u00e0 voir cas par cas\n\n\nADULTES Adh\u00e9sion + 1h30 entra\u00eenement : 240 euros\n\n\n\n\nR\u00e9ductions et Paiements\n\n\n\n\nR\u00e9duction de 50 euro sur le montant total si au moins 3 membres d\u2019une m\u00eame famille sont licenci\u00e9s au club. \n\n\nParrainage, r\u00e9duction du montant de la licence FFT (29 euro pour les adultes ou 20 euro pour les jeunes) si le licenci\u00e9 parraine un nouveau membre au club.\n\n\nPossibilit\u00e9 de payer en 3 fois sans frais.\n\n\nCh\u00e8ques vacances et coupons sport accept\u00e9s\n\n\n\n\n\n\nAutres prestations\n\n\n\n\nBadge d\u2019acc\u00e8s\u00a0caution                                    :  20 euro \n\n\nR\u00e9servation d\u2019un court 1h                                :  10 euro\n\n\nInvitation d\u2019une personne\u00a0                               :    5 euro\n\n\nR\u00e9servation machine lance balles+balles 1h  :  15 euro", 
             "title": "Ecole"
         }, 
         {
-            "location": "/ecole/#lecole-de-tennis-en-chiffres-club-fft-56620174", 
+            "location": "/ecole/#lecole-de-tennis-club-fft-56620174", 
             "text": "Responsable de l'\u00e9cole et club :  \nDominique Herkt (tel : 06-87-11-83-78 ou par mail\u00a0: dominique.herkt at wanadoo.fr)  Directeur sportif :   Vincent DEGRAVE Brevet d'Etat, class\u00e9 2/6  Equipe p\u00e9dagogique :  \nVincent DEGRAVE, Didier LECLERCQ, Sylvain VANDERBECQ,  Charlotte WILLEME (Educateur STAPS)", 
-            "title": "L'\u00e9cole de Tennis en chiffres - Club FFT : 56620174"
+            "title": "L'\u00e9cole de Tennis  - Club FFT : 56620174"
         }, 
         {
             "location": "/ecole/#tarifs-saison-2018-2019-bulletin-dinscription", 
             "text": "Adh\u00e9sion  saison 2018-2019 \n(inclus : licence FFT, acc\u00e8s aux courts et club house, r\u00e9servation des courts via Adoc sur internet.)   Jeune ou \u00e9tudiant 80 euros  Adulte 115 euros  Couple 190 euros  D\u00e9couverte 3 mois 45 euros (Personne +15 ans et non licenci\u00e9e depuis plus de 3 ans)   Cours   JEUNE  Adh\u00e9sion + entra\u00eenement 1h/2h/3h/4h/5h resp. : 120/180/240/300/360 euros  P\u00f4le espoir \u00e0 voir cas par cas  ADULTES Adh\u00e9sion + 1h30 entra\u00eenement : 240 euros   R\u00e9ductions et Paiements   R\u00e9duction de 50 euro sur le montant total si au moins 3 membres d\u2019une m\u00eame famille sont licenci\u00e9s au club.   Parrainage, r\u00e9duction du montant de la licence FFT (29 euro pour les adultes ou 20 euro pour les jeunes) si le licenci\u00e9 parraine un nouveau membre au club.  Possibilit\u00e9 de payer en 3 fois sans frais.  Ch\u00e8ques vacances et coupons sport accept\u00e9s    Autres prestations   Badge d\u2019acc\u00e8s\u00a0caution                                    :  20 euro   R\u00e9servation d\u2019un court 1h                                :  10 euro  Invitation d\u2019une personne\u00a0                               :    5 euro  R\u00e9servation machine lance balles+balles 1h  :  15 euro", 
             "title": "TARIFS SAISON 2018-2019 (Bulletin d'inscription)"
-        }, 
-        {
-            "location": "/joueurs/", 
-            "text": "L'\u00e9volution des joueurs form\u00e9s\n\n\nDerni\u00e8res News : \n\n\n\n\nL'\u00e9quipe fanion masculine en pr\u00e9-national\n\n\nCl\u00e9mence Herkt parmi les 10 meilleures joueuses des Hauts de France.\n\n\n\n\nNiveau europ\u00e9en :\n\n\n\n\nPaul Doutriaux class\u00e9 15/1\n\n\nGabriel Duthe class\u00e9 2/6\n\n\n\n\nNiveau r\u00e9gional :\n\n\n\n\nVincent Degrave class\u00e9 2/6, Champion des Flandres 35+\n\n\nSylvain Vanderbecq, class\u00e9 4/6\n\n\nCl\u00e9mence Herkt, class\u00e9e 5/6\n\n\n\n\n\n\nLes athl\u00e8tes mis \u00e0 l'honneur - 21 janvier 2018!", 
-            "title": "News"
-        }, 
-        {
-            "location": "/joueurs/#levolution-des-joueurs-formes", 
-            "text": "Derni\u00e8res News :    L'\u00e9quipe fanion masculine en pr\u00e9-national  Cl\u00e9mence Herkt parmi les 10 meilleures joueuses des Hauts de France.   Niveau europ\u00e9en :   Paul Doutriaux class\u00e9 15/1  Gabriel Duthe class\u00e9 2/6   Niveau r\u00e9gional :   Vincent Degrave class\u00e9 2/6, Champion des Flandres 35+  Sylvain Vanderbecq, class\u00e9 4/6  Cl\u00e9mence Herkt, class\u00e9e 5/6    Les athl\u00e8tes mis \u00e0 l'honneur - 21 janvier 2018!", 
-            "title": "L'\u00e9volution des joueurs form\u00e9s"
-        }, 
-        {
-            "location": "/joueursH/", 
-            "text": "Classement des joueurs", 
-            "title": "Masculin"
-        }, 
-        {
-            "location": "/joueursH/#classement-des-joueurs", 
-            "text": "", 
-            "title": "Classement des joueurs"
-        }, 
-        {
-            "location": "/joueursF/", 
-            "text": "Classement des joueuses", 
-            "title": "F\u00e9minin"
-        }, 
-        {
-            "location": "/joueursF/#classement-des-joueuses", 
-            "text": "", 
-            "title": "Classement des joueuses"
         }, 
         {
             "location": "/chouse/", 
