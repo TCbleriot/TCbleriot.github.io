@@ -23,6 +23,24 @@
      <changefreq>daily</changefreq>
     </url>
         
+    <url>
+     <loc>/jeudi/</loc>
+     <lastmod>2018-09-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/vendredi/</loc>
+     <lastmod>2018-09-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/samedi/</loc>
+     <lastmod>2018-09-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
