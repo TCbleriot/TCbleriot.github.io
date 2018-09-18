@@ -4,23 +4,31 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-08-29</lastmod>
+     <lastmod>2018-09-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
+        
     <url>
      <loc>/ecole/</loc>
-     <lastmod>2018-08-29</lastmod>
+     <lastmod>2018-09-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>/mercredi/</loc>
+     <lastmod>2018-09-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
     <url>
      <loc>/chouse/</loc>
-     <lastmod>2018-08-29</lastmod>
+     <lastmod>2018-09-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -28,7 +36,7 @@
     
     <url>
      <loc>/acces/</loc>
-     <lastmod>2018-08-29</lastmod>
+     <lastmod>2018-09-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -36,7 +44,7 @@
     
     <url>
      <loc>/contact/</loc>
-     <lastmod>2018-08-29</lastmod>
+     <lastmod>2018-09-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
