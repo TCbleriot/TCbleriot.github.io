@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2019-04-25</lastmod>
+     <lastmod>2019-06-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,31 +13,7 @@
         
     <url>
      <loc>/ecole/</loc>
-     <lastmod>2019-04-25</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/mercredi/</loc>
-     <lastmod>2019-04-25</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/jeudi/</loc>
-     <lastmod>2019-04-25</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/vendredi/</loc>
-     <lastmod>2019-04-25</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/samedi/</loc>
-     <lastmod>2019-04-25</lastmod>
+     <lastmod>2019-06-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -45,8 +21,16 @@
 
     
     <url>
+     <loc>/tournois/</loc>
+     <lastmod>2019-06-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
      <loc>/chouse/</loc>
-     <lastmod>2019-04-25</lastmod>
+     <lastmod>2019-06-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -54,7 +38,7 @@
     
     <url>
      <loc>/acces/</loc>
-     <lastmod>2019-04-25</lastmod>
+     <lastmod>2019-06-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -62,7 +46,7 @@
     
     <url>
      <loc>/contact/</loc>
-     <lastmod>2019-04-25</lastmod>
+     <lastmod>2019-06-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
