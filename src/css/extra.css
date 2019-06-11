@@ -1,0 +1,25 @@
+h1 {
+  color: blue;
+  margin-top: 84px;
+}
+
+
+
+body {
+  color:black;
+  background-color:orange;
+  background-image:url(./img/fondEcran.jpg);
+  background-repeat:no-repeat;
+  background-position:center center;
+}
+
+.btn {
+    border-width: 0 0px 0px 0px;
+    font-weight: normal;
+}
+
+.btn-default {
+    color: #2ecc71;
+    background-color: #ffffff;
+    border-color: #ffffff;
+}

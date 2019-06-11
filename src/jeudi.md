@@ -1,0 +1,12 @@
+# Les cours du jeudi
+
+** Groupe sportif avec Charlotte**
+17h30 - 19h00 : 
+
+* VASSEUR ENZO
+* CADIET YANNICK
+* CADIET BASTIEN
+* LAVOINE FLORENT
+* POTTIER LUCAS
+* WALLE LUDOVIC
+* BESSODES JULIEN

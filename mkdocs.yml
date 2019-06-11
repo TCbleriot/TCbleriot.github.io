@@ -1,0 +1,37 @@
+# Project information
+site_name: BTC - Tennis Bleriot
+site_description: 'Bleriot Tennis Club  '
+site_author: 'Emilie Poisson Caillault'
+repo_url: https://github.com/TCBleriot/TCBleriot.github.io
+
+# Copyright
+copyright: 'Copyright &copy; 2017 - ... TC Bleriot-Plage'
+
+#theme    
+theme: material
+  #name: null
+  #custom_dir: material
+
+css: css/extra.css
+
+# Customization
+extra:
+  social:
+    - type: facebook
+      link: https://www.facebook.com/groups/708894309241398/
+    - type: github-alt
+      link: https://github.com/TCbleriot
+
+#extensions
+markdown_extensions:
+  - footnotes
+
+pages:
+  - Accueil: index.md
+  - Ecole : 
+    - Accueil : ecole.md
+  - Tournois: tournois.md
+  - Club House: chouse.md
+  - Nous trouver: acces.md
+  - Contact : contact.md
+
