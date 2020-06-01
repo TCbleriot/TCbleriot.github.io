@@ -1,20 +1,28 @@
-# Accès au club - Equipements
+Le tennis club BTC BLERIOT-PLAGE accueille les joueurs dans une toute nouvelle infrastructure depuis 2019
 
-T.C. BLERIOT-PLAGE accueille les tennismen 
+** un club house depuis 2018 et tous les terrains totalement refaits en 2019 **
 
-sur Blériot  :
-- une école de Tennis, Rue Vigier 62231 BLERIOT-PLAGE
 
-- 2 courts extérieurs.
-- 2 courts couverts.
+## à Blériot
+
+- une école de Tennis, 19 Rue Vigier 62231 BLERIOT-PLAGE
+
+- 2 courts extérieurs. rénovés complétement en 2019
+- 2 courts couverts. rénovés complétement en 2019
+- club-house, salle conviviale, wc et douches. construits en 2019
 - accès par badge
 
-![](img/courtExtBL.jpg)
+![](img/court1.jpg) ![](img/court2.jpg)
 
-sur Sangatte : Stade Porte des deux caps - Rte départementale - Sangatte
+![](img/court3.jpg) ![](img/court4.jpg)
+
+
+## à Sangatte 
+
+Stade Porte des deux caps - Rte départementale - Sangatte
 
 - 1 court extérieur.
 
 ![](img/courtExtSa.jpg) 
 
-Pour réserver votre terrain, il faut être inscrit au club. :[https://tenup.fft.fr/club/56620174](https://tenup.fft.fr/club/56620174)  
+Pour réserver votre terrain, il faut être inscrit au club. :[tenup](https://tenup.fft.fr/club/56620174)  
