@@ -8,7 +8,7 @@ repo_url: https://github.com/TCBleriot/TCBleriot.github.io
 copyright: 'Copyright &copy; 2017 - ... TC Bleriot-Plage'
 
 #theme    
-theme: material
+theme: bootstrap4
   #name: null
   #custom_dir: material
 
@@ -27,11 +27,11 @@ markdown_extensions:
   - footnotes
 
 pages:
-  - Accueil: index.md
-  - Ecole : 
-    - Accueil : ecole.md
-  - Tournois: tournois.md
-  - Club House: chouse.md
+  - Accueil : index.md
+  - Pratique : 
+    - Loisirs : loisirs.md
+    - Formation : ecole.md
+  - Les gazettes : gazettes.md
+  - Acteurs: comite.md
   - Nous trouver: acces.md
   - Contact : contact.md
-
