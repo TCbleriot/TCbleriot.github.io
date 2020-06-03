@@ -39,8 +39,8 @@ _Réductions et Paiements_
  
 **Autres prestations**
 
- *     Badge d’accès caution                                   :  20 euros 
- *    Réservation d’un court 1h                                :  10 euros
- *     Invitation d’une personne                               :   5 euros
- *    Réservation machine lance balles+balles 1h               :  15 euros
+ *    Badge d’accès caution                                   :  20 euros 
+ *    Réservation d’un court 1h                               :  10 euros
+ *    Invitation d’une personne                               :   5 euros
+ *    Réservation machine lance balles+balles 1h              :  15 euros
                  

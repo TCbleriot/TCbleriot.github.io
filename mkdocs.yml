@@ -28,10 +28,11 @@ markdown_extensions:
 
 pages:
   - Accueil : index.md
-  - Pratique : 
+  - Pratique Tennis: 
     - Loisirs : loisirs.md
-    - Formation : ecole.md
+    - Ecole/Entraînements : ecole.md
   - Les gazettes : gazettes.md
-  - Acteurs: comite.md
+  - Les Acteurs: comite.md
   - Nous trouver: acces.md
   - Contact : contact.md
+

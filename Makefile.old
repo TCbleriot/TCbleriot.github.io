@@ -26,4 +26,5 @@ clean:
 	rm -fR $(DIR_OUT)
 	rm -fR $(DIR_SITE)
 
-
+publish:
+	rsync --exclude=".*" --chown="dymaphy:shinyUsers" --chmod=775 -Pe  ssh -av --delete-after "$(DIR_SITE)/" mawenzi:/data/www/shiny/$(DIR_HOST)
