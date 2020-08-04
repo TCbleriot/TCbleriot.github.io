@@ -23,3 +23,5 @@ body {
     background-color: #ffffff;
     border-color: #ffffff;
 }
+
+img[alt=logo] { width: 100px; }
